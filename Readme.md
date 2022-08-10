@@ -38,7 +38,7 @@ With the help of this project, I learned how to create a gorgeous landing Page b
 
 [Live Link](https://majestic-granita-650443.netlify.app/)
 
-![What's Trend In](../Capture.PNG)
+![What's Trend In](Capture.PNG)
 
 ---
 
